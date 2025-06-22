@@ -12,7 +12,7 @@ export const Footer = () => {
             alt="Croatian"
             height={32}
             width={40}
-            className="mr-4 rounded-md"
+            className="mr-4 h-auto rounded-md"
           />
           Croatian
         </Button>
@@ -23,7 +23,7 @@ export const Footer = () => {
             alt="Spanish"
             height={32}
             width={40}
-            className="mr-4 rounded-md"
+            className="mr-4 h-auto rounded-md"
           />
           Spanish
         </Button>
@@ -34,7 +34,7 @@ export const Footer = () => {
             alt="French"
             height={32}
             width={40}
-            className="mr-4 rounded-md"
+            className="mr-4 h-auto rounded-md"
           />
           French
         </Button>
@@ -45,7 +45,7 @@ export const Footer = () => {
             alt="Italian"
             height={32}
             width={40}
-            className="mr-4 rounded-md"
+            className="mr-4 h-auto rounded-md"
           />
           Italian
         </Button>
@@ -56,7 +56,7 @@ export const Footer = () => {
             alt="Japanese"
             height={32}
             width={40}
-            className="mr-4 rounded-md"
+            className="mr-4 h-auto rounded-md"
           />
           Japanese
         </Button>
