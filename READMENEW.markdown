@@ -382,13 +382,13 @@ Dependencies:
 
 ## :coffee: Buy Me a Coffee
 
-[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/piyushiik24 "Buy me a Coffee")
+[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://coff.ee/piyushiitk24 "Buy me a Coffee")
 
 ## :rocket: Follow Me
 
 [![Follow Me](https://img.shields.io/github/followers/piyushiitk24?style=social&label=Follow&maxAge=2592000)](https://github.com/piyushiitk24 "Follow Me")
 [![Tweet about this project](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fpiyushiitk24)](https://twitter.com/intent/tweet?text=Check+out+this+amazing+app:&url=https%3A%2F%2Fgithub.com%2Fpiyushiitk24%2Fduolingo-clone "Tweet about this project")
-[![Subscribe to my YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCNAz_hUVBG2ZUN8TVm0bmYw)](https://www.youtube.com/@piyushiik24/?sub_confirmation=1 "Subscribe to my YouTube Channel")
+[![Subscribe to my YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCNAz_hUVBG2ZUN8TVm0bmYw)](https://www.youtube.com/@piyushiitk24/?sub_confirmation=1 "Subscribe to my YouTube Channel")
 
 ## :books: Learn More
 
@@ -416,7 +416,7 @@ Star this repository to share it with others!
 </a>
 
 ---
-**Author**: piyushiik24  
+**Author**: 24  
 **Email**: [piyushiitk24@gmail.com](mailto:piyushiitk24@gmail.com)  
 **GitHub**: [piyushiitk24](https://github.com/piyushiitk24)
 
