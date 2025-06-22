@@ -41,11 +41,11 @@ export const siteConfig: Metadata = {
   ] as Array<string>,
   authors: {
     name: "Sanidhya Kumar Verma",
-    url: "https://github.com/sanidhyy",
+    url: "https://github.com/piyushiitk24",
   },
 } as const;
 
 export const links = {
-  sourceCode: "https://github.com/sanidhyy/Gamification_Quiz",
-  email: "sanidhya.verma12345@gmail.com",
+  sourceCode: "https://github.com/piyushiitk24/Gamification_Quiz",
+  email: "piyushiitk24@gmail.com",
 }
