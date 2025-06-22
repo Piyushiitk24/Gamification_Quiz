@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 export const siteConfig: Metadata = {
-  title: "Lingo",
+  title: "Gamification_Quiz",
   description:
     "Interactive platform for language learning with lessons, quizzes, and progress tracking.",
   keywords: [
@@ -9,7 +9,7 @@ export const siteConfig: Metadata = {
     "nextjs",
     "vercel",
     "react",
-    "duolingo-clone",
+    "Gamification_Quiz",
     "learn-language",
     "shadcn",
     "shadcn-ui",
@@ -46,6 +46,6 @@ export const siteConfig: Metadata = {
 } as const;
 
 export const links = {
-  sourceCode: "https://github.com/sanidhyy/duolingo-clone",
+  sourceCode: "https://github.com/sanidhyy/Gamification_Quiz",
   email: "sanidhya.verma12345@gmail.com",
-} as const;
+}
