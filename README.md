@@ -1,17 +1,17 @@
 <a name="readme-top"></a>
 
-# Interactive platform for language learning.
+# Gamification_Quiz - Interactive platform for language learning.
 
-![Lingo - Interactive platform for language learning.](/.github/images/img_main.png "Lingo - Interactive platform for language learning.")
+![Gamification_Quiz - Interactive platform for language learning.](/.github/images/img_main.png "Gamification_Quiz - Interactive platform for language learning.")
 
-[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy "Ask Me Anything!")
-[![GitHub license](https://flat.badgen.net/github/license/sanidhyy/duolingo-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/duolingo-clone/blob/main/LICENSE "GitHub license")
-[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/duolingo-clone/commits/main "Maintenance")
-[![GitHub branches](https://flat.badgen.net/github/branches/sanidhyy/duolingo-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/duolingo-clone/branches "GitHub branches")
-[![Github commits](https://flat.badgen.net/github/commits/sanidhyy/duolingo-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/duolingo-clone/commits "Github commits")
-[![GitHub issues](https://flat.badgen.net/github/issues/sanidhyy/duolingo-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/duolingo-clone/issues "GitHub issues")
-[![GitHub pull requests](https://flat.badgen.net/github/prs/sanidhyy/duolingo-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/duolingo-clone/pulls "GitHub pull requests")
-[![Vercel status](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lingo-clone.vercel.app/ "Vercel status")
+[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/Piyushiitk24 "Ask Me Anything!")
+[![GitHub license](https://flat.badgen.net/github/license/Piyushiitk24/Gamification_Quiz?icon=github&color=black&scale=1.01)](https://github.com/Piyushiitk24/Gamification_Quiz/blob/main/LICENSE "GitHub license")
+[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/Piyushiitk24/Gamification_Quiz/commits/main "Maintenance")
+[![GitHub branches](https://flat.badgen.net/github/branches/Piyushiitk24/Gamification_Quiz?icon=github&color=black&scale=1.01)](https://github.com/Piyushiitk24/Gamification_Quiz/branches "GitHub branches")
+[![Github commits](https://flat.badgen.net/github/commits/Piyushiitk24/Gamification_Quiz?icon=github&color=black&scale=1.01)](https://github.com/Piyushiitk24/Gamification_Quiz/commits "Github commits")
+[![GitHub issues](https://flat.badgen.net/github/issues/Piyushiitk24/Gamification_Quiz?icon=github&color=black&scale=1.01)](https://github.com/Piyushiitk24/Gamification_Quiz/issues "GitHub issues")
+[![GitHub pull requests](https://flat.badgen.net/github/prs/Piyushiitk24/Gamification_Quiz?icon=github&color=black&scale=1.01)](https://github.com/Piyushiitk24/Gamification_Quiz/pulls "GitHub pull requests")
+[![Vercel status](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gamification-quiz.vercel.app/ "Vercel status")
 
 <!-- Table of Contents -->
 <details>
@@ -259,7 +259,7 @@ Once the script completes, check your database to ensure that the challenges dat
 
 ## :wrench: Stats
 
-[![Stats for Lingo](/.github/images/stats.svg "Stats for Lingo")](https://pagespeed.web.dev/analysis?url=https://lingo-clone.vercel.app/ "Stats for Lingo")
+[![Stats for Gamification_Quiz](/.github/images/stats.svg "Stats for Gamification_Quiz")](https://pagespeed.web.dev/analysis?url=https://gamification-quiz.vercel.app/ "Stats for Gamification_Quiz")
 
 ## :raised_hands: Contribute
 
@@ -303,11 +303,11 @@ Useful resources and dependencies that are used in Lingo.
 
 ## :coffee: Buy Me a Coffee
 
-[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://coff.ee/piyushiitk24 "Buy me a Coffee")
+[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://coff.ee/Piyushiitk24 "Buy me a Coffee")
 
 ## :rocket: Follow Me
 
-[![Follow Me](https://img.shields.io/github/followers/sanidhyy?style=social&label=Follow&maxAge=2592000)](https://github.com/sanidhyy "Follow Me")
+[![Follow Me](https://img.shields.io/github/followers/Piyushiitk24?style=social&label=Follow&maxAge=2592000)](https://github.com/Piyushiitk24 "Follow Me")
 [![Tweet about this project](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTechnicalShubam)](https://twitter.com/intent/tweet?text=Check+out+this+amazing+app:&url=https%3A%2F%2Fgithub.com%2Fsanidhyy%2Fduolingo-clone "Tweet about this project")
 [![Subscribe to my YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCNAz_hUVBG2ZUN8TVm0bmYw)](https://www.youtube.com/@OPGAMER./?sub_confirmation=1 "Subscribe to my YouTube Channel")
 
@@ -332,11 +332,11 @@ You can also give this repository a star to show more people and they can use th
 
 ## :star2: Star History
 
-<a href="https://star-history.com/#sanidhyy/duolingo-clone&Timeline">
+<a href="https://star-history.com/#Piyushiitk24/Gamification_Quiz&Timeline">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sanidhyy/duolingo-clone&type=Timeline&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sanidhyy/duolingo-clone&type=Timeline" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=sanidhyy/duolingo-clone&type=Timeline" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Piyushiitk24/Gamification_Quiz&type=Timeline&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Piyushiitk24/Gamification_Quiz&type=Timeline" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Piyushiitk24/Gamification_Quiz&type=Timeline" />
 </picture>
 </a>
 
