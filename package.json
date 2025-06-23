@@ -1,6 +1,9 @@
 {
-  "name": "gamification_quiz",
+  "name": "gamification-quiz",
   "version": "1.0.1",
+  "author": "Piyush Tiwari",
+  "description": "Interactive platform for language learning with lessons, quizzes, and progress tracking.",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -13,25 +16,26 @@
     "db:push": "npx drizzle-kit push:pg",
     "db:prod": "tsx ./scripts/prod.ts"
   },
-  "author": {
-    "name": "Sanidhya Kumar Verma",
-    "email": "sanidhya.verma12345@gmail.com",
-    "url": "https://github.com/sanidhyy"
+  "homepage": "https://github.com/Piyushiitk24/Gamification_Quiz#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Piyushiitk24/Gamification_Quiz.git"
   },
-  "description": "Interactive platform for language learning with lessons, quizzes, and progress tracking.",
+  "bugs": {
+    "url": "https://github.com/Piyushiitk24/Gamification_Quiz/issues"
+  },
   "keywords": [
     "reactjs",
     "nextjs",
     "vercel",
     "react",
-    "duolingo-clone",
+    "Gamification-Quiz",
     "learn-language",
     "shadcn",
     "shadcn-ui",
     "radix-ui",
     "cn",
     "clsx",
-    "lingo",
     "postgresql",
     "sonner",
     "drizzle",
@@ -53,26 +57,6 @@
     "eslint",
     "html",
     "css"
-  ],
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Piyushiitk24/Gamification_Quiz.git"
-  },
-  "homepage": "https://github.com/Piyushiitk24/Gamification_Quiz#readme",
-  "bugs": {
-    "url": "https://github.com/Piyushiitk24/Gamification_Quiz/issues",
-    "email": "sanidhya.verma12345@gmail.com"
-  },
-  "funding": [
-    {
-      "type": "patreon",
-      "url": "https://coff.ee/piyushiitk24"
-    },
-    {
-      "type": "Buy me a coffee",
-      "url": "https://coff.ee/piyushiitk24"
-    }
   ],
   "dependencies": {
     "@clerk/nextjs": "^4.31.5",

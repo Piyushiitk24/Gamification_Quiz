@@ -1,15 +1,15 @@
-# Lingo - Interactive platform for language learning.
+# Gamification_Quiz - Interactive platform for language learning.
 
-![Lingo - Interactive platform for language learning.](/.github/images/img_main.png "Lingo - Interactive platform for language learning.")
+![Gamification_Quiz - Interactive platform for language learning.](/.github/images/img_main.png "Gamification_Quiz - Interactive platform for language learning.")
 
-[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/piyushiitk24 "Ask Me Anything!")
-[![GitHub license](https://flat.badgen.net/github/license/piyushiitk24/duolingo-clone?icon=github&color=black&scale=1.01)](https://github.com/piyushiitk24/duolingo-clone/blob/main/LICENSE "GitHub license")
-[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/piyushiitk24/duolingo-clone/commits/main "Maintenance")
-[![GitHub branches](https://flat.badgen.net/github/branches/piyushiitk24/duolingo-clone?icon=github&color=black&scale=1.01)](https://github.com/piyushiitk24/duolingo-clone/branches "GitHub branches")
-[![Github commits](https://flat.badgen.net/github/commits/piyushiitk24/duolingo-clone?icon=github&color=black&scale=1.01)](https://github.com/piyushiitk24/duolingo-clone/commits "Github commits")
-[![GitHub issues](https://flat.badgen.net/github/issues/piyushiitk24/duolingo-clone?icon=github&color=black&scale=1.01)](https://github.com/piyushiitk24/duolingo-clone/issues "GitHub issues")
-[![GitHub pull requests](https://flat.badgen.net/github/prs/piyushiitk24/duolingo-clone?icon=github&color=black&scale=1.01)](https://github.com/piyushiitk24/duolingo-clone/pulls "GitHub pull requests")
-[![Vercel status](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lingo-clone.vercel.app/ "Vercel status")
+[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/Piyushiitk24 "Ask Me Anything!")
+[![GitHub license](https://flat.badgen.net/github/license/Piyushiitk24/Gamification_Quiz?icon=github&color=black&scale=1.01)](https://github.com/Piyushiitk24/Gamification_Quiz/blob/main/LICENSE "GitHub license")
+[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/Piyushiitk24/Gamification_Quiz/commits/main "Maintenance")
+[![GitHub branches](https://flat.badgen.net/github/branches/Piyushiitk24/Gamification_Quiz?icon=github&color=black&scale=1.01)](https://github.com/Piyushiitk24/Gamification_Quiz/branches "GitHub branches")
+[![Github commits](https://flat.badgen.net/github/commits/Piyushiitk24/Gamification_Quiz?icon=github&color=black&scale=1.01)](https://github.com/Piyushiitk24/Gamification_Quiz/commits "Github commits")
+[![GitHub issues](https://flat.badgen.net/github/issues/Piyushiitk24/Gamification_Quiz?icon=github&color=black&scale=1.01)](https://github.com/Piyushiitk24/Gamification_Quiz/issues "GitHub issues")
+[![GitHub pull requests](https://flat.badgen.net/github/prs/Piyushiitk24/Gamification_Quiz?icon=github&color=black&scale=1.01)](https://github.com/Piyushiitk24/Gamification_Quiz/pulls "GitHub pull requests")
+[![Vercel status](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gamification-quiz.vercel.app/ "Vercel status")
 
 <!-- Table of Contents -->
 <details>
@@ -38,7 +38,7 @@
 Here is the folder structure of this app.
 
 ```bash
-duolingo-clone/
+Gamification_Quiz/
   |- actions/
     |- challenge-progress.ts
     |- user-progress.ts
@@ -202,16 +202,16 @@ Follow these steps exactly to run the app. If you get stuck, check the “Troubl
      ```
    - Download the project:
      ```bash
-     git clone https://github.com/piyushiitk24/duolingo-clone.git
+     git clone https://github.com/Piyushiitk24/Gamification_Quiz.git
      ```
    - Move into the project folder:
      ```bash
-     cd duolingo-clone
+     cd Gamification_Quiz
      ```
 
 2. **Set Up the `.env` File**:
    - The app needs a file called `.env` to store secret keys (like passwords for Clerk, Neon, and Stripe).
-   - In the `duolingo-clone` folder, create a file named `.env`. On Mac/Linux, you can use:
+   - In the `Gamification_Quiz` folder, create a file named `.env`. On Mac/Linux, you can use:
      ```bash
      touch .env
      ```
@@ -222,7 +222,7 @@ Follow these steps exactly to run the app. If you get stuck, check the “Troubl
      NEXT_TELEMETRY_DISABLED=1
      NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
      CLERK_SECRET_KEY=sk_test_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-     DATABASE_URL="postgresql://<user>:<password>@<host>:<port>/lingo?sslmode=require"
+     DATABASE_URL="postgresql://<user>:<password>@<host>:<port>/gamification_quiz?sslmode=require"
      STRIPE_API_SECRET_KEY=sk_test_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
      STRIPE_WEBHOOK_SECRET=whsec_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
      NEXT_PUBLIC_APP_URL=http://localhost:3000
@@ -237,19 +237,19 @@ Follow these steps exactly to run the app. If you get stuck, check the “Troubl
        - Click **Users** in the dashboard, find your admin user (e.g., your account), and copy the user ID (starts with `user_`). Paste it into `CLERK_ADMIN_IDS`. If you have multiple admins, separate IDs with a comma and space (e.g., `user_xxx, user_yyy`).
      - **Neon Database URL**:
        - Go to [Neon Dashboard](https://console.neon.tech/).
-       - Sign in, create a new project, and name the database `lingo`.
-       - In the project’s dashboard, find the **Connection String** (looks like `postgresql://user:password@host:port/lingo?sslmode=require`).
+       - Sign in, create a new project, and name the database `gamification_quiz`.
+       - In the project’s dashboard, find the **Connection String** (looks like `postgresql://user:password@host:port/gamification_quiz?sslmode=require`).
        - Copy and paste it into `DATABASE_URL`, replacing `<user>`, `<password>`, `<host>`, and `<port>` with the values from Neon.
      - **Stripe Keys**:
        - Go to [Stripe Dashboard](https://dashboard.stripe.com/).
        - Sign in and click **Developers** > **API Keys**.
        - Copy the **Secret Key** (starts with `sk_test_`) and paste it into `STRIPE_API_SECRET_KEY`.
        - Go to **Developers** > **Webhooks**, click **Add endpoint**, and enter `http://localhost:3000/api/webhooks/stripe` as the URL. Copy the webhook secret (starts with `whsec_`) and paste it into `STRIPE_WEBHOOK_SECRET`.
-     - **App URL**: Keep `NEXT_PUBLIC_APP_URL=http://localhost:3000` for now. If you deploy the app later (e.g., to Vercel), change it to the deployed URL (e.g., `https://lingo-clone.vercel.app`).
+     - **App URL**: Keep `NEXT_PUBLIC_APP_URL=http://localhost:3000` for now. If you deploy the app later (e.g., to Vercel), change it to the deployed URL (e.g., `https://gamification-quiz.vercel.app`).
    - Save the `.env` file. Don’t share it with anyone—it’s like a password!
 
 3. **Install the App’s Tools**:
-   - In the `duolingo-clone` folder, run:
+   - In the `Gamification_Quiz` folder, run:
      ```bash
      npm install --legacy-peer-deps
      ```
@@ -283,7 +283,7 @@ Follow these steps exactly to run the app. If you get stuck, check the “Troubl
      - Adds sample data (like example quizzes).
    - **Check It Worked**:
      - Go to [Neon Dashboard](https://console.neon.tech/).
-     - Look at your `lingo` database. You should see tables like `challenges`, `units`, and `lessons` with data in them.
+     - Look at your `gamification_quiz` database. You should see tables like `challenges`, `units`, and `lessons` with data in them.
      - If you don’t see data, make sure your `DATABASE_URL` in `.env` is correct and try the command again.
 
 6. **Run the App**:
@@ -296,7 +296,7 @@ Follow these steps exactly to run the app. If you get stuck, check the “Troubl
      ```
      http://localhost:3000
      ```
-   - You should see the Lingo app’s homepage!
+   - You should see the Gamification Quiz app’s homepage!
 
 7. **Test the App**:
    - Try these pages:
@@ -337,7 +337,7 @@ Follow these steps exactly to run the app. If you get stuck, check the “Troubl
 
 ## :wrench: Stats
 
-[![Stats for Lingo](/.github/images/stats.svg "Stats for Lingo")](https://pagespeed.web.dev/analysis?url=https://lingo-clone.vercel.app/ "Stats for Lingo")
+[![Stats for Gamification_Quiz](/.github/images/stats.svg "Stats for Gamification_Quiz")](https://pagespeed.web.dev/analysis?url=https://gamification-quiz.vercel.app/ "Stats for Gamification_Quiz")
 
 ## :raised_hands: Contribute
 
@@ -386,8 +386,8 @@ Dependencies:
 
 ## :rocket: Follow Me
 
-[![Follow Me](https://img.shields.io/github/followers/piyushiitk24?style=social&label=Follow&maxAge=2592000)](https://github.com/piyushiitk24 "Follow Me")
-[![Tweet about this project](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fpiyushiitk24)](https://twitter.com/intent/tweet?text=Check+out+this+amazing+app:&url=https%3A%2F%2Fgithub.com%2Fpiyushiitk24%2Fduolingo-clone "Tweet about this project")
+[![Follow Me](https://img.shields.io/github/followers/Piyushiitk24?style=social&label=Follow&maxAge=2592000)](https://github.com/Piyushiitk24 "Follow Me")
+[![Tweet about this project](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fpiyushiitk24)](https://twitter.com/intent/tweet?text=Check+out+this+amazing+app:&url=https%3A%2F%2Fgithub.com%2FPiyushiitk24%2FGamification_Quiz "Tweet about this project")
 [![Subscribe to my YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCNAz_hUVBG2ZUN8TVm0bmYw)](https://www.youtube.com/@piyushiitk24/?sub_confirmation=1 "Subscribe to my YouTube Channel")
 
 ## :books: Learn More
@@ -407,18 +407,18 @@ Star this repository to share it with others!
 
 ## :star2: Star History
 
-<a href="https://star-history.com/#piyushiitk24/duolingo-clone&Timeline">
+<a href="https://star-history.com/#Piyushiitk24/Gamification_Quiz&Timeline">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=piyushiitk24/duolingo-clone&type=Timeline&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=piyushiitk24/duolingo-clone&type=Timeline" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=piyushiitk24/duolingo-clone&type=Timeline" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Piyushiitk24/Gamification_Quiz&type=Timeline&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Piyushiitk24/Gamification_Quiz&type=Timeline" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Piyushiitk24/Gamification_Quiz&type=Timeline" />
 </picture>
 </a>
 
 ---
-**Author**: 24  
+**Author**: Piyush Tiwari
 **Email**: [piyushiitk24@gmail.com](mailto:piyushiitk24@gmail.com)  
-**GitHub**: [piyushiitk24](https://github.com/piyushiitk24)
+**GitHub**: [Piyushiitk24](https://github.com/Piyushiitk24)
 
 <br />
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
