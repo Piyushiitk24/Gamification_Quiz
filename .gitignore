@@ -39,3 +39,5 @@ next-env.d.ts
 # testing tools
 /ngrok
 /stripe
+
+README_Parent.md
