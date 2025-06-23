@@ -12,7 +12,7 @@ type BannerProps = {
   setHide: Dispatch<SetStateAction<boolean>>;
 };
 
-const BANNER_KEY = "hide-lingo-banner";
+const BANNER_KEY = "hide-gamification-quiz-banner";
 
 const Banner = ({ hide, setHide }: BannerProps) => {
   const [isScrolled, setIsScrolled] = useState(false);
@@ -51,27 +51,27 @@ const Banner = ({ hide, setHide }: BannerProps) => {
           <p className="text-sm font-normal">
             📢{" "}
             <strong className="font-semibold">
-              Account creation is currently not working
+              This project is in a testing phase.
             </strong>{" "}
-            due to Clerk&apos;s 500-user limit. To try it out, please{" "}
+            If you find any bugs, please{" "}
             <Link
-              href={`${links.sourceCode}/fork`}
+              href={`${links.sourceCode}/issues/new`}
               target="_blank"
               rel="noreferrer noopener"
               className="text-green-600 transition-opacity hover:opacity-75"
             >
-              fork this repo
-            </Link>{" "}
-            or{" "}
+              report it
+            </Link>
+            . You can also{" "}
             <Link
-              href={`mailto:${links.email}`}
+              href="https://coff.ee/Piyushiitk24"
               target="_blank"
               rel="noreferrer noopener"
               className="text-green-600 transition-opacity hover:opacity-75"
             >
-              Contact me
-            </Link>{" "}
-            for access.
+              support this project
+            </Link>
+            .
           </p>
         </div>
 
